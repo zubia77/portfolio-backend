@@ -2,7 +2,7 @@
     {
         "userName": "anonymousUser",
         "firstName": "Anonymous",
-        "lastname": "User",
+        "lastName": "User",
         "companyName": "Anonymous",
         "city": "",
         "email": "",

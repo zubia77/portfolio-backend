@@ -7,4 +7,4 @@ const portfolioSkillsSchema = new mongoose.Schema({
     github: String,
 });
 
-export const PortfolioSkillsSchema = mongoose.model("skills", portfolioSkillsSchema);
+export const PortfolioSkills = mongoose.model("skills", portfolioSkillsSchema);
